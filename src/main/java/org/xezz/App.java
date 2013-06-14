@@ -7,12 +7,9 @@ import java.util.Scanner;
 
 /**
  * Hello world!
- *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
         Console console = System.console();
         System.out.println("Enter any non number to exit!");
         if (console != null) {

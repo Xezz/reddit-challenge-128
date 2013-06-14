@@ -8,6 +8,7 @@ package org.xezz;
 public class StringToNumberParser {
     /**
      * Parse a given input String and return the Integer repesentation
+     *
      * @param toParse String representation of a number
      * @return Integer value of the String
      * @throws NumberFormatException if the given String is not of a valid format

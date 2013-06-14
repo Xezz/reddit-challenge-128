@@ -26,6 +26,7 @@ public class CheckSummerTest {
         new HashMap<Integer, Integer>().put(994665, 39);
 
     }
+
     @Test
     public void testBuild() throws Exception {
         final Integer expected = new Integer(1 + 2 + 3 + 4 + 5);

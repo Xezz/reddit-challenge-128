@@ -12,6 +12,7 @@ public class Solver {
 
     /**
      * Calculate the checksum of any given input and of the result until only a single digit is left
+     *
      * @param input String representing the number to calculate
      * @return List of Integers containing all steps of solving this
      * @throws NumberFormatException if the given input is not a valid number
